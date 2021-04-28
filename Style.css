@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Satisfy&family=Shadows+Into+Light&display=swap');
+
+
+.navbar {
+  background-color: #68068f;
+}
+.navbar-brand {
+  font-family: 'Akaya Kanadaka', cursive;
+  font-size: 25px;
+  
+}
+#navbarNav {
+  float: right;
+}
+
+/* Jumbotron*/
+.jumbotron {
+  background-color: #68068f;
+  text-align: center;
+  padding-top: 5rem;
+  font-family: 'Akaya Kanadaka', cursive;
+  color: #fff;
+}
+
+.profile {
+  width: 165px;
+  background-color: #fff;
+  padding: 4px;
+  margin: 50px;
+  border: 5px solid #db12a5;
+  transition: 2s
+  
+}
+.profile:hover {
+  transform: translateX(-20px) translateY(-20px);
+}
+
+
+/*Project CSS*/
+#project {
+  background-color: #68068f;
+}
+
+
+/*Footer*/
+.footer {
+  background-color: #68068f;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #fff;
+}
+section {
+  padding-top: 7rem;
+}
