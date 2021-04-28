@@ -45,11 +45,14 @@
 /*Footer*/
 .footer {
   background-color: #68068f;
+
 }
 
 .footer a {
   text-decoration: none;
   color: #fff;
+  font-family: 'Akaya Kanadaka', cursive;
+
 }
 section {
   padding-top: 7rem;
